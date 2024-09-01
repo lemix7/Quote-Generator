@@ -21,6 +21,6 @@ A simple quote generator built using HTML, CSS, and JavaScript. This application
 
 ## API
 
-This project uses the [API Ninjas Quotes API]([https://api.api-ninjas.com/v1/quotes](https://dummyjson.com/quotes/random)) to fetch random quotes.
+This project uses the [dummy Json API](https://dummyjson.com/quotes/random) to fetch random quotes.
 
 
